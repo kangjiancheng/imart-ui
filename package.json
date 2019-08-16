@@ -1,0 +1,22 @@
+{
+  "name": "imart-ui",
+  "version": "1.0.2",
+  "description": "imart ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "imart-ui"
+  ],
+  "author": "superk",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kangjiancheng/imart-ui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kangjiancheng/imart-ui/issues"
+  },
+  "homepage": "https://github.com/kangjiancheng/imart-ui#readme"
+}
